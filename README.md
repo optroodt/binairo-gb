@@ -86,3 +86,5 @@ Technical notes:
 - There's no crank, so hints are on B. Undo on SELECT is new.
 - Puzzles, graphics, font and texts are my own recreations in the original's style.
   No assets were taken from the Playdate game.
+
+![Screenshots of Binairo](./images/binairo-screenshots.png)
