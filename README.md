@@ -3,8 +3,8 @@
 A Game Boy / Game Boy Color version of **Binairo**, the Playdate logic puzzle by Pocket Games
 (https://pocketgames.itch.io/binairo), written in C for **GBDK-2020**.
 
-[!NOTE]
-This game was entirely created by Claude Opus 5.5 with High effort.
+> [!NOTE]
+> This game was entirely created by Claude Opus 5.5 on High effort.
 
 Fill the grid with 0s and 1s:
 
